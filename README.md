@@ -6,7 +6,7 @@ Collection of all student projects that started in 2017.
 
 ## Semester students (bachelor and master)
 
-- [PoP on Ethereum](https://github.com/dedis/pop_ethereum)
+- [PoP on Ethereum](https://github.com/dedis/student_17/tree/master/pop_ethereum)
 - [ByzCoinX](https://github.com/dedis/student_17_bftcosi)
 - [Comparison of Blockchains](https://github.com/dedis/student_17_byzcoin)
 - [Evoting using Neff Shuffles](https://github.com/dedis/student_17_evoting)
@@ -25,7 +25,7 @@ Collection of all student projects that started in 2017.
 - [Collections](https://github.com/dedis/student_17_collections)
 - [One Time Secrets](https://github.com/dedis/student_17_ots)
 - [Geneva e-voting Modular Exponantiation](https://github.com/dedis/student_17_geneva)
-- [Perfect Forward Secrecy for PoP](https://github.com/dedis/pfs_pop)
+- [Perfect Forward Secrecy for PoP](https://github.com/dedis/student_17/tree/master/pfs_pop)
 
 ## Interns
 
